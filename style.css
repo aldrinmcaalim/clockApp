@@ -22,6 +22,14 @@ html {
 	transform: translateY(-3px);
 }
 
+.clock-numbers {
+	color: white;
+	display: block;
+	position: relative;
+	align-items: center;
+	justify-content: center;
+}
+
 .hand {
 	width: 50%;
 	height: 6px;
