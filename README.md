@@ -1,3 +1,5 @@
 # clockApp
 <br>
-Almost completed. I'm working on adding the numbers on the clock.
+Project is finished. 
+<br>
+I'll update this project if I feel like it needs to be updated.
